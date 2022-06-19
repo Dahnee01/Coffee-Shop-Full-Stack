@@ -8,7 +8,7 @@ from logging import FileHandler, Formatter
 
 AUTH0_DOMAIN = 'dahnee.us.auth0.com'
 ALGORITHMS = ['RS256']
-API_AUDIENCE = 'coffee'
+API_AUDIENCE = 'coffe'
 
 
 ## AuthError Exception
